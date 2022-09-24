@@ -1,0 +1,2 @@
+# MobileNet_V2
+基于MindSpore实现MobileNetV2
